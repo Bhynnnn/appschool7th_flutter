@@ -1,0 +1,8 @@
+name: test_example
+description: "Dart Test Example"
+
+environment:
+  sdk: ^3.6.0
+
+dev_dependencies:
+  test: ^1.25.15
